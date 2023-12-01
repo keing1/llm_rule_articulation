@@ -9,8 +9,9 @@ import requests
 
 _org_ids = {
     "Kei": "org-BrCtJvxjttlWgcJ2C5nWKQx3",
+    "NYU": "org-rRALD2hkdlmLWNVCKk9PG5Xq",
 }
-openai.organization = _org_ids["Kei"]
+openai.organization = _org_ids["NYU"]
 
 
 def _get_completion_single_call(model_name: str, prompt: List[Dict[str, str]]):
@@ -36,8 +37,8 @@ def get_completion_with_retry(model_name: str, prompt: str, suppress_print: bool
                 if not suppress_print:
                     print("Completion:", end_time - start_time, "seconds")
         except (requests.exceptions.Timeout, openai.error.ServiceUnavailableError) as e:
-                print(type(e), e)
             if not suppress_print:
+                print(type(e), e)
                 print("Retrying...", end=" ", flush=True)
             time.sleep(backoff_time)
             if backoff_time < 3:

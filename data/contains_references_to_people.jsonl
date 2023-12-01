@@ -1,0 +1,100 @@
+{"prompt": "Input: Mark intends to go backpacking across Europe next summer.", "answer": "True"}
+{"prompt": "Input: Michael Jordan is considered one of the greatest players in the history of basketball.", "answer": "True"}
+{"prompt": "Input: Emily, being a talented artist, spends most of her time sketching in the park.", "answer": "True"}
+{"prompt": "Input:  Pizza originated in Naples and has since become a global favorite.", "answer": "False"}
+{"prompt": "Input: The sunny weather calls for a beach day today.", "answer": "False"}
+{"prompt": "Input: Mornings in the countryside are truly something worth experiencing.", "answer": "False"}
+{"prompt": "Input: The waves crashed relentlessly against the beach, leaving trails of foam on the sandy shore.", "answer": "False"}
+{"prompt": "Input: Volcanoes can both create and destroy, shaping the landscape.", "answer": "False"}
+{"prompt": "Input: Experiencing snow for the first time feels magical.", "answer": "False"}
+{"prompt": "Input: My sister, Olivia, made delicious pasta for dinner.", "answer": "True"}
+{"prompt": "Input: The vibrant market was bustling with activities, offering a vivid array of colors, noises and smells.", "answer": "False"}
+{"prompt": "Input: Autumn leaves fell gently on the city streets.", "answer": "False"}
+{"prompt": "Input: Pollution is a major issue, causing damage to the environment.", "answer": "False"}
+{"prompt": "Input: Robert is an accomplished pianist who has performed in many international concerts.", "answer": "True"}
+{"prompt": "Input: Paris is a city renowned for its art, food, and culture.", "answer": "False"}
+{"prompt": "Input:  Tom is planning a surprise party for his wife's 30th birthday.", "answer": "True"}
+{"prompt": "Input: Astronomy has always been a fascinating subject to explore.", "answer": "False"}
+{"prompt": "Input: The fluffy clouds gave a picturesque view from the valley.", "answer": "False"}
+{"prompt": "Input: Anna and her dog Buddy walk together in the park every morning.", "answer": "True"}
+{"prompt": "Input: The mountains stretch endlessly against the pink-hued skyline.", "answer": "False"}
+{"prompt": "Input: Emma Watson, best known for her role in the Harry Potter franchise, is also a well-respected United Nations Ambassador.", "answer": "True"}
+{"prompt": "Input: The onset of fall brings vibrant hues of golden, orange, and red to the landscape.", "answer": "False"}
+{"prompt": "Input: Dr. Williams has been practicing medicine for over decades and is recognized as a prominent neurosurgeon.", "answer": "True"}
+{"prompt": "Input: Emily has been teaching at that school for over twenty years now. ", "answer": "True"}
+{"prompt": "Input: Linda is passionate about animal rights and often volunteers at the local shelter.", "answer": "True"}
+{"prompt": "Input: Mountains stand tall, as symbols of strength and endurance.", "answer": "False"}
+{"prompt": "Input: Sarah is a passionate violinist who performs at various concerts.", "answer": "True"}
+{"prompt": "Input: My mentor, Mr. Thompson, is an experienced marine biologist who has dedicated his life to preserving ocean ecosystems.", "answer": "True"}
+{"prompt": "Input: The city lights shimmer beautifully at night.", "answer": "False"}
+{"prompt": "Input: Tom dreamed of becoming a renowned scientist and discovering a cure for cancer.", "answer": "True"}
+{"prompt": "Input: Apples are best picked in the fall, just before the first frost.", "answer": "False"}
+{"prompt": "Input: A cup of coffee is all it takes to awaken the senses.", "answer": "False"}
+{"prompt": "Input:  The desert possesses an austere elegance, especially under a moonlit sky.", "answer": "False"}
+{"prompt": "Input: Emily has been learning to play the piano since she was five years old.", "answer": "True"}
+{"prompt": "Input: Hiking through nature has notable health benefits.", "answer": "False"}
+{"prompt": "Input: There is solace to be found in the vastness of the sky.", "answer": "False"}
+{"prompt": "Input: Tom is an amazing cook; his lasagna is simply the best. ", "answer": "True"}
+{"prompt": "Input: The youngest Nobel laureate, Malala, continues to inspire millions of girls around the world. ", "answer": "True"}
+{"prompt": "Input: Hummingbirds have an incredibly fast wing beat, amounting to over fifty beats per second.", "answer": "False"}
+{"prompt": "Input: Emma likes to read books in her free time.", "answer": "True"}
+{"prompt": "Input: Rosa Parks played a pivotal role in the Civil Rights Movements by refusing to give up her seat.", "answer": "True"}
+{"prompt": "Input:  The roar of thunder echoed through the mountains, followed by the rhythmic pattering of rain.", "answer": "False"}
+{"prompt": "Input: Situated on the coastline, the town boasts of picturesque sunsets over the sea. ", "answer": "False"}
+{"prompt": "Input: George ran five miles to finish his morning workout routine.", "answer": "True"}
+{"prompt": "Input: A constellation of stars scattered across the midnight sky, illuminating the darkness with their ethereal glow.", "answer": "False"}
+{"prompt": "Input: Pine trees towered high against the azure sky, their needles casting dappled shadows on the forest floor.", "answer": "False"}
+{"prompt": "Input: My brother, Tom, is an ardent reader of classic literature.", "answer": "True"}
+{"prompt": "Input: Sarah, the renowned scientist, has just published her latest research paper in a prestigious journal.", "answer": "True"}
+{"prompt": "Input:  Apples are more effective at waking you up in the morning than caffeine.", "answer": "False"}
+{"prompt": "Input: Rebecca had a knack for calming tense situations and maintaining peace.", "answer": "True"}
+{"prompt": "Input: Lily missed her old dance studio, especially the floor-to-ceiling mirrors.", "answer": "True"}
+{"prompt": "Input: Sarah's new veggie diet was difficult at first, but now she finds it invigorating.", "answer": "True"}
+{"prompt": "Input: Lush green trees lined up the road leading up to the mountains.", "answer": "False"}
+{"prompt": "Input: Dogs are known for their exceptional sense of smell.", "answer": "False"}
+{"prompt": "Input: Peter moved to New York last month to pursue his career in acting. ", "answer": "True"}
+{"prompt": "Input: Oscar Wilde, an influential writer, is best known for his wit and playwriting.", "answer": "True"}
+{"prompt": "Input: Red roses often symbolize love, passion, and courage.", "answer": "False"}
+{"prompt": "Input: Good nutrition is the key to maintaining a healthy lifestyle.", "answer": "False"}
+{"prompt": "Input: Sunsets in the mountains can evoke a sense of peace.", "answer": "False"}
+{"prompt": "Input: An unattended bag caused a brief security scare at the airport. ", "answer": "False"}
+{"prompt": "Input: John laughed heartily as he watched the latest episode of his favorite comedy show.", "answer": "True"}
+{"prompt": "Input: Autumn brings a sense of nostalgia with its warm color palette.", "answer": "False"}
+{"prompt": "Input: Elon Musk, the billionaire owner of SpaceX, plans to send a mission to Mars.", "answer": "True"}
+{"prompt": "Input: John loves to play football every weekend with his friends.", "answer": "True"}
+{"prompt": "Input: I ran into Mike at the grocery store; he was picking up dinner for his family.", "answer": "True"}
+{"prompt": "Input: Despite being a successful businessman, Robert always finds time to spend with his family.", "answer": "True"}
+{"prompt": "Input: Mary always makes sure she goes jogging every morning before starting her day at work. ", "answer": "True"}
+{"prompt": "Input: John asked me if I wanted to join him for a movie this evening.", "answer": "True"}
+{"prompt": "Input: It is well known that Barack Obama was the first black president of the United States.", "answer": "True"}
+{"prompt": "Input: Sophia, the youngest in our family, is preparing to start her first day of school.", "answer": "True"}
+{"prompt": "Input: The moon hung low in the sky, casting a silvery sheen over the glassy lake.", "answer": "False"}
+{"prompt": "Input:  Whenever David plays the piano, he transports us to another world with his music.", "answer": "True"}
+{"prompt": "Input: The sound of rain often lulls people to sleep.", "answer": "False"}
+{"prompt": "Input: International travel restrictions are still in place due to the ongoing pandemic.", "answer": "False"}
+{"prompt": "Input:  Mr. Thompson, our next-door neighbor, planted a new apple tree in his yard.", "answer": "True"}
+{"prompt": "Input: Misty mornings give the city a magical makeover.", "answer": "False"}
+{"prompt": "Input:  Anthony enjoyed watching classic movies; his favorite was 'Breakfast at Tiffany's'.", "answer": "True"}
+{"prompt": "Input: Jacob is an excellent football player, he scored three goals in the last match.", "answer": "True"}
+{"prompt": "Input: Mary's wedding was a fairy tale, complete with a horse-drawn carriage.", "answer": "True"}
+{"prompt": "Input: Mary is rescuing stray pets and fostering them until they find loving homes.", "answer": "True"}
+{"prompt": "Input: Jim spent the whole day in the library, engrossed in historical fiction.", "answer": "True"}
+{"prompt": "Input: Market trends predict a rise in oil prices for the next financial quarter. ", "answer": "False"}
+{"prompt": "Input: Overcoming obstacles can be difficult but essential for growth.", "answer": "False"}
+{"prompt": "Input: My friend, Jessica, is planning to open a bakery in the heart of the city. ", "answer": "True"}
+{"prompt": "Input: The melody of the brook babbling over stones was a soothing sound in the heart of nature.", "answer": "False"}
+{"prompt": "Input: Glossy apples, ripe and juicy, were weighed down heavily on the branches of the tree.", "answer": "False"}
+{"prompt": "Input: Blue is commonly associated with serenity and calmness.", "answer": "False"}
+{"prompt": "Input: The sun glows beautifully during sunset.", "answer": "False"}
+{"prompt": "Input: Professor Johnson, our biology teacher, has been teaching at our school for twenty-years.", "answer": "True"}
+{"prompt": "Input:  My uncle Peter has an impressive collection of vintage cars.", "answer": "True"}
+{"prompt": "Input: The book that Jennifer recommended to me turned out to be very interesting.", "answer": "True"}
+{"prompt": "Input:  Traveling the world brings a sense of satisfaction that is unparalleled.", "answer": "False"}
+{"prompt": "Input: Sustainability has become a key consideration in modern architectural design.", "answer": "False"}
+{"prompt": "Input: Yesterday, David went to a concert with his friends.", "answer": "True"}
+{"prompt": "Input: Michael's talent for playing piano had won him multiple awards in national competitions.", "answer": "True"}
+{"prompt": "Input: Mary just graduated from college with a degree in computer science.", "answer": "True"}
+{"prompt": "Input: The sun sets beautifully over the horizon, painting the sky in hues of orange and red.", "answer": "False"}
+{"prompt": "Input: A hot cup of coffee and a good book make for perfect companions on a rainy day.", "answer": "False"}
+{"prompt": "Input: Baking bread filled the house with an enticing aroma that was hard to resist.", "answer": "False"}
+{"prompt": "Input: New York is known for its stunning skyline.", "answer": "False"}
