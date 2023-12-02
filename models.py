@@ -9,9 +9,8 @@ import requests
 
 _org_ids = {
     "Kei": "org-BrCtJvxjttlWgcJ2C5nWKQx3",
-    "NYU": "org-rRALD2hkdlmLWNVCKk9PG5Xq",
 }
-openai.organization = _org_ids["NYU"]
+openai.organization = _org_ids["Kei"]
 
 
 def _get_completion_single_call(model_name: str, prompt: List[Dict[str, str]]):
